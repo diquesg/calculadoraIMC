@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/—Pngtree—3d\ rendering\ of\ calculator\ symbol_11772116.jpg);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-position-y: 0%;
+    background-size: 180%;
+}
+
+#card{
+    background-color: rgba(31, 30, 30, 0.3);
+    backdrop-filter: blur(14px);
+}
